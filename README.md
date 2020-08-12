@@ -13,7 +13,7 @@ and here: <http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/revie
 
 Each notebook (Amazon_Baby_Wordcloud and Amazon_Movies_Wordcloud) will process the specified JSON files from the Julian McAuley UCSD page, ultimately generating word clouds used as part of the final deliverables of the DS5559 Summer 2020 course at UVA.
 
-To generate the word clouds, a .JPG file will be inlcuded for use as the mask.
+To generate the word clouds, a .JPG file will be included for use as the mask.
 
 Cheers,
 
